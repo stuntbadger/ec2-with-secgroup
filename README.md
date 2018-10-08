@@ -7,7 +7,7 @@ Pre req create a key for the EC2 instance
 
 create "terraform.tfvars" which contains the AWS_ACCESS_KEY and AWS_SECRET_KEY 
 
-```AWS_ACCESS_KEY = ""
+```AWS_ACCESS_KEY = ""```
 
-AWS_SECRET_KEY = ""```
+```AWS_SECRET_KEY = ""```
 
