@@ -8,5 +8,6 @@ ssh-keygen -f mykey
 create terraform.tfvars which contains the AWS_ACCESS_KEY and AWS_SECRET_KEY 
 
 AWS_ACCESS_KEY = ""
+
 AWS_SECRET_KEY = ""
 
